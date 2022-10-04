@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(46, 39, 104);
+  }
+
+  img {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+
+ .title {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    <link rel="stylesheet" href="https://fonts.google.com/specimen/Cedarville+Cursive">
+    <style>
+    font-family: cursive;
+    font-style: italic;
+    </style>
+  }
+ .description {
+
+    color: white;
+    text-align: center;
+    font-size: small;
+ }
