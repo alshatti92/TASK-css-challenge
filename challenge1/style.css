@@ -2,29 +2,29 @@ body {
     background-color: rgb(46, 39, 104);
   }
 
-  img {
+  .image{
     display: block;
     width: 25%;
+    border-radius: 4%;
     margin-left: auto;
     margin-right:auto;
     margin-top: 25px;
     margin-bottom: 25px;
-  }
+   }
 
  .title {
     color: white;
     text-align: center;
     font-weight: bold;
-    font-size: large;
-    <link rel="stylesheet" href="https://fonts.google.com/specimen/Cedarville+Cursive">
-    <style>
-    font-family: cursive;
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
     font-style: italic;
-    </style>
+    
   }
  .description {
 
     color: white;
     text-align: center;
-    font-size: small;
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
  }
